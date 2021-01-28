@@ -1,35 +1,33 @@
-Number;;Task
-Assembly Main Oxidizer Valve;;
-1;;Remove old O-rings, if any
-2;;Clean all components with acetone
-3;;Insert circumferential O-ring
-4;;Insert the two O-rings on the output side
-5;;Insert the two O-rings on the input side
-6;;Insert the piston into the housing using the auxiliary tool
-7;;Insert the two springs into the piston
-8;;Fix the cover of the housing slightly with the four screws
-9;;Tighten the four screws crosswise until the housing is completely closed
-;;
-Steps before riveting the oxidizer tank to the MainOx section;;
-1;;Check if all fittings of the main line are tightened
-2;;Check correct installation of the MainOx
-3;;Check if the check valves are installed with the correct orientation
-4;;Check if all fittings of the secondary supply line are tightened
-5;;Check valve plugs
-6;;Check if all fittings of the N2O coupling are tightened
-7;;After the shell is mounted, check the alignment of the N2O coupling 
-;;
-Steps before riveting the HP section to the antenna ring;;
-1;;Check if fitting the the HP tank is tightened
-;;
-Steps before inserting the Oxidixer tank + Feeding system in the HP shell;;
-1;;Check if all fittings are tightened
-2;;Check valve plugs
-3;;Close RMDV
-;;
-Steps after assembling the structure of the rocket;;
-1;;Tighten fitting of the main line between Main Ox and Engine 
-2;;Tighten fitting of the main line between HP tank and pressure regulator 
-3;;Tighten fitting of the secondary suppy line 
-4;;Check if RDV exit matches the hole in the shell
-5;;Insert RDV exit cover
+Number;;Task;;
+Assembly Main Oxidizer Valve;;;;
+0:00;;Remove old O-rings, if any;;
+0:00;;Remove old O-rings, if any;;
+0:00;;Clean all components with acetone;;
+0:00;;Insert circumferential O-ring;;
+0:00;;Insert the two O-rings on the output side;;
+0:00;;Insert the two O-rings on the input side;;
+0:00;;Insert the piston into the housing using the auxiliary tool;;
+0:00;;Insert the two springs into the piston;;
+0:00;;Fix the cover of the housing slightly with the four screws;;
+0:00;;Tighten the four screws crosswise until the housing is completely closed;;
+0:00;;Steps before riveting the oxidizer tank to the MainOx section;Before riveting Ox tank to MainOx section;1
+0:00;;Check if all fittings of the main line are tightened;;
+0:00;;Check correct installation of the MainOx;;
+0:00;;Check if the check valves are installed with the correct orientation;;
+0:00;;Check if all fittings of the secondary supply line are tightened;;
+0:00;;Check valve plugs;;
+0:00;;Check if all fittings of the N2O coupling are tightened;;
+0:00;;After the shell is mounted, check the alignment of the N2O coupling ;;
+0:00;;Steps before riveting the HP section to the antenna ring;Before riveting HP section to Antenna;
+0:00;;Check if fitting the the HP tank is tightened;;
+0:00;;Steps before inserting the Oxidixer tank + Feeding system in the HP shell;Before inserting Ox tank and feeding into hp shell;
+0:00;;Check if all fittings are tightened;;
+0:00;;Check valve plugs;;
+0:00;;Close RMDV;;
+0:00;;Steps after assembling the structure of the rocket;After structure assembly;
+0:00;;Tighten fitting of the main line between Main Ox and Engine ;;
+0:00;;Tighten fitting of the main line between HP tank and pressure regulator ;;
+0:00;;Tighten fitting of the secondary suppy line ;;
+0:00;;Check if RDV exit matches the hole in the shell;;
+0:00;;Insert RDV exit cover;;
+0:00;;End of Procedure;End;
